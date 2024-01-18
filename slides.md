@@ -95,3 +95,11 @@ Some content...
 # Slide `images` with image
 
 ![Github](https://www.svgrepo.com/show/381657/github.svg)
+
+---
+# Slide `Headers & Quotes` with some content
+
+## This is a Header
+
+> This is a quote.
+> - Author Name
