@@ -29,3 +29,13 @@ git commit -m "Initial commit"
 ```console
 git checkout -b feature/branching
 ```
+---
+# Work on a Branch
+
+### Make Changes
+Edit, add, and modify your files as needed.
+Add your changes to staging:
+```console
+git add .
+git checkout -b feature/branching
+```
