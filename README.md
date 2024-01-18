@@ -1,15 +1,20 @@
-# github-bootcamp
+## Introduction
+
+Multiple slides to learn more about GitHub.
+
+![My Image](https://i.imgur.com/FZne7ju.png)
 
 Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/).
 
-## Running your presentation
+## Installation
 
-- Run `yarn install` (or `npm install` or `pnpm install`) to install dependencies.
-- Run `yarn start` (or `npm start` or `pnpm start`) to start the presentation.
-- Edit `index.tsx to add your presentation content.
+- To run the project, use the package manager [npm](https://www.npmjs.com/) to run it locally.
+> The command `npm install` installs dependencies.
+- Then, to start the project, just type the command below.
+> `npm start`
 
-## Building you presentation
+## On the Internet?
 
-To build your presentation for a production deploy, run `yarn build` (or `npm build` or `pnpm build`).
+Don't want to install the project on your computer? Just follow the link below.
 
-The build artifacts will be placed in the `dist` directory. If you'd like to change this location, edit `output.path` in `webpack.config.js`.
+🌍 [github-bootcamp](https://ecv-github-bootcamp.vercel.app/?slideIndex=7&stepIndex=0)
