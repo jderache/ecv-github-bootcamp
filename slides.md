@@ -2,4 +2,4 @@
 # github-bootcamp
 
 ---
-- Made with Spectacle
+# How to Initialize a New Repository
