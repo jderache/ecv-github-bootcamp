@@ -103,3 +103,10 @@ Some content...
 
 > This is a quote.
 > - Author Name
+
+---
+# Slide `Code` with some code
+
+
+```javascript
+console.log('Hello, world!');
