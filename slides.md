@@ -90,3 +90,8 @@ Some content...
 - Item 1
 - Item 2
 - Item 3
+
+---
+# Slide `images` with image
+
+![Github](https://www.svgrepo.com/show/381657/github.svg)
