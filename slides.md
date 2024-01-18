@@ -73,3 +73,10 @@ Push your commits to the remote repository. Use:
 git push origin main
 ```
 
+---
+# Pulling changes from remote
+- To update your local repository to the latest commit from the remote repository, use:
+```console
+git push origin main
+```
+- Replace `branch_name` with the name of the branch you want to pull from. If you’re working with the main branch, this is often `main` or `master`.
