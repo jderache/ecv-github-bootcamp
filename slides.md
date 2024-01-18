@@ -3,3 +3,6 @@
 
 ---
 # How to Initialize a New Repository
+
+---
+# How to review changes
