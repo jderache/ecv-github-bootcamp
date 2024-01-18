@@ -120,3 +120,8 @@ console.log('Hello, world!');
 
 ## Special Formatting
 You can also use *italic*, **bold**, or `monospace` fonts for emphasis.
+
+---
+# How to automate issue closing
+
+Great news! The issue can now close automatically!
