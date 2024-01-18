@@ -110,3 +110,13 @@ Some content...
 
 ```javascript
 console.log('Hello, world!');
+
+---
+# Extras
+
+## Advanced Tips
+- **Tip 1:** Here's an advanced tip or trick that might be useful.
+- **Tip 2:** Another insightful tip or lesser-known feature.
+
+## Special Formatting
+You can also use *italic*, **bold**, or `monospace` fonts for emphasis.
