@@ -64,3 +64,12 @@ git push
 ```console
 git branch -d feature/branching
 ```
+
+---
+# Pushing changes to remote
+
+Push your commits to the remote repository. Use:
+```console
+git push origin main
+```
+
