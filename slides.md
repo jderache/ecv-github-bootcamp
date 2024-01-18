@@ -84,3 +84,9 @@ git push origin main
 ---
 # Slide `text` with content
 Some content...
+
+---
+# Slide `lists` with content
+- Item 1
+- Item 2
+- Item 3
