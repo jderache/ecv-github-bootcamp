@@ -55,4 +55,12 @@ git merge feature/branching
 Push changes 
 ```console
 git push
-``````
+```
+--- 
+# Delete a branch
+
+- Delete the Local Branch
+> After merging, you can delete the local branch:
+```console
+git branch -d feature/branching
+```
