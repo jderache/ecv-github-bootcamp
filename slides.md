@@ -23,3 +23,9 @@ git diff
 git add README.md
 git commit -m "Initial commit"
 ```
+---
+# Create a new branch
+
+```console
+git checkout -b feature/branching
+```
