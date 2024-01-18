@@ -7,7 +7,7 @@ const theme = {
   colors: {
     primary: '#475569',
     secondary: '#1e293b',
-    tertiary: '#E2F0EA',
+    tertiary: '#DDDDDD',
     quaternary: '#2563eb',
     quinary: '#000'
   },
