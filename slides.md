@@ -39,3 +39,20 @@ Add your changes to staging:
 git add .
 git checkout -b feature/branching
 ```
+
+---
+# Merge branch on ```main```
+
+Ensure you are on the main branch:
+```console
+git checkout main
+
+```
+Then merge
+```console
+git merge feature/branching
+```
+Push changes 
+```console
+git push
+``````
