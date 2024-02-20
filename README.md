@@ -15,6 +15,25 @@ Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/).
 - Then, to start the project, just type the command below.
 > `npm start`
 
+## State of progress
+
+## 101
+- [x] 01.md
+- [x] 02.md
+- [x] 03.md
+
+## 102
+- [x] 01.md
+- [x] 02.md
+- [x] 03.md
+- [ ] 04.md
+
+## 103
+- [ ] 01.md
+- [ ] 02.md
+- [ ] 03.md
+- [ ] 04.md
+
 ## On the Internet?
 
 Don't want to install the project on your computer? Just follow the link below.
