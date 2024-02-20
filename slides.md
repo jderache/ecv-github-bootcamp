@@ -125,3 +125,11 @@ You can also use *italic*, **bold**, or `monospace` fonts for emphasis.
 # How to automate issue closing
 
 Great news! The issue can now close automatically!
+
+---
+
+## Julien Derache
+
+![](https://raw.githubusercontent.com/flexbox/github-bootcamp/main/slides/github-bootcamp.png)
+
+---
