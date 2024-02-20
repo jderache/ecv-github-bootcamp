@@ -127,9 +127,13 @@ You can also use *italic*, **bold**, or `monospace` fonts for emphasis.
 Great news! The issue can now close automatically!
 
 ---
+<<<<<<< HEAD
 
 ## Julien Derache
 
 ![](https://raw.githubusercontent.com/flexbox/github-bootcamp/main/slides/github-bootcamp.png)
 
 ---
+=======
+# How to apply commit
+>>>>>>> 5cdd3ad (feat: add slide how apply commit)
