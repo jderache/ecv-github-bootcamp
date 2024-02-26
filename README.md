@@ -29,7 +29,7 @@ Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/).
 - [x] 04.md
 
 ## 103
-- [ ] 01.md
+- [x] 01.md
 - [ ] 02.md
 - [ ] 03.md
 - [x] 04.md
