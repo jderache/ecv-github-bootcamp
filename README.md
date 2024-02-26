@@ -30,7 +30,7 @@ Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/).
 
 ## 103
 - [x] 01.md
-- [ ] 02.md
+- [x] 02.md
 - [ ] 03.md
 - [x] 04.md
 
