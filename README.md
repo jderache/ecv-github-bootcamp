@@ -32,7 +32,7 @@ Made with ❤️ and [Spectacle](https://github.com/FormidableLabs/spectacle/).
 - [ ] 01.md
 - [ ] 02.md
 - [ ] 03.md
-- [ ] 04.md
+- [x] 04.md
 
 ## On the Internet?
 
